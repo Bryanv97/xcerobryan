@@ -1,6 +1,7 @@
 //Autor/Author: José Luis Olivares
 //https://linkedin.com/in/jolivaress
-var socket = io.connect('https://equisgame.herokuapp.com/'); //creating socket connection
+var socket = io.connect('https://xcerobryan.herokuapp.com/'); //creating socket connection
+//https://equisgame.herokuapp.com/
 var app = {
     myUserName:-1, //-1 es no definido
     players:-1, //inicializando -1 es nadie
