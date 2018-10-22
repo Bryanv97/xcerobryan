@@ -1,2 +1,2 @@
 # xcerobryan
-juego xdxxdd
+Juego De Equis Cero equis de
